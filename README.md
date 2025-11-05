@@ -12,6 +12,8 @@ This tool simulates a basic SIEM detection rule. It's part of my security automa
 
 ## Usage
 
+## Usage
+
 Place your `auth.log` file in the same directory as the script and run:
 
 ```bash
