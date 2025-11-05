@@ -16,3 +16,11 @@ Place your `auth.log` file in the same directory as the script and run:
 
 ```bash
 python analysis.py
+
+```bash
+[!!!] ALERT: BRUTE-FORCE DETECTED!
+  > IP Address: 65.2.161.68
+  > Attempts:   At least 10 attempts
+  > Time Span:  0.00 minutes
+  > Start Time: 2025-03-06 06:31:33
+  > End Time:   2025-03-06 06:31:33
